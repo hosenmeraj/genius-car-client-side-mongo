@@ -5,7 +5,7 @@ const Footer = () => {
     const year = today.getFullYear();
     return (
         <footer className="text-center py-5 mt-3 bg-primary">
-            <p>&copy; {year}</p>
+            <p>CopyeWrite &copy; {year}</p>
         </footer>
     );
 };
